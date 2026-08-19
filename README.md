@@ -5,7 +5,7 @@ SHARP X68000実機（X68000/X68030）・X68000 Z・各種X68000エミュレー�
 
 ## 内容
 
-このプログラムは、あお様作『[SC61860 CROSS ASSEMBLER /DISASSEMBLER](https://hd61700.yukimizake.net/SC61860/)（SC61860クロスアセンブラ・逆アセンブラ）』を、X68000でも利用できるようにしたものです。<br>
+このプログラムは、[あお](https://x.com/hd61yukimizake)様作『[SC61860 CROSS ASSEMBLER /DISASSEMBLER](https://hd61700.yukimizake.net/SC61860/)（SC61860クロスアセンブラ・逆アセンブラ）』を、X68000でも利用できるようにしたものです。<br>
 SC61860は、SHARPのポケコン（PC-12xx,PC-13xx,PC-14xx）で採用されています。<br>
 内容は変更しておりません。<br>
 詳細につきましては、上記リンクを参照してください。
@@ -19,7 +19,7 @@ SC61860は、SHARPのポケコン（PC-12xx,PC-13xx,PC-14xx）で採用されて
 
 ## 免責、著作権、配布
 
-* 本ソフトウェアは、あお様作『[SC61860 CROSS ASSEMBLER /DISASSEMBLER](https://hd61700.yukimizake.net/SC61860/)』で公開されているソースをもとに、X68000用にコンパイル及び動作できるようにしたものです。<br>
-* 公開元のソースの権利は、全てあお様に帰属します。
+* 本ソフトウェアは、[あお](https://x.com/hd61yukimizake)様作『[SC61860 CROSS ASSEMBLER /DISASSEMBLER](https://hd61700.yukimizake.net/SC61860/)』で公開されているソースをもとに、X68000用にコンパイル及び動作できるようにしたものです。<br>
+* 公開元のソースの権利は、全て[あお](https://x.com/hd61yukimizake)様に帰属します。
 * 本ソフトウェアの利用に起因して、本体等利用機器の障害および故障等使用者に生じた損害について、原因の如何を問わず、一切の責任を負いません。<br>
 * 本ソフトウェアは、自由に変更・配布して頂いて構いません。<br>
